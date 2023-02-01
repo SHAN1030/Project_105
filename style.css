@@ -1,0 +1,28 @@
+body{
+    background-color:blanchedalmond;
+    color: rgb(210, 22, 22);
+
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+.name_of_objects{
+    border-width: 1px;
+    border-style: solid;
+    border-color:rgb(44, 4, 245);
+    font-size:30px;
+    font-weight: bolder;
+    padding:2em;
+    margin:2em;
+}
+#result_object_name,#result_object_accuracy{
+color:green;
+}
+
